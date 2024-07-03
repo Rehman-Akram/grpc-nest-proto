@@ -1,6 +1,9 @@
 # grpc-nest-proto
 This is grpc proto repo, which will be used in microservices as package
 
+ # Medium link
+https://medium.com/@rehmanakram03/microservices-communication-api-gateway-pattern-using-grpc-a165c7425bfb
+
 
 ## Repositories
 
